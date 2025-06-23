@@ -24,5 +24,6 @@ To build a trustless and transparent system for incentivizing ethical hackers an
 
 ## Contract Details
 project done by ritik raj
+project done by ritik raj
 0x7bb99Aac7C555ac4471c06acA432684672E1CE10
 ![alt text](image.png)
