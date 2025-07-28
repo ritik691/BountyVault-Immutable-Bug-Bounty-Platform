@@ -1,4 +1,4 @@
-# Project Title: BountyVault: Immutable Bug Bounty Platform
+.# Project Title: BountyVault: Immutable Bug Bounty Platform
 
 ## Project Description
 
