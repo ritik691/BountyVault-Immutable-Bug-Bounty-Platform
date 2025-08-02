@@ -1,6 +1,6 @@
 .# Project Title: BountyVault: Immutable Bug Bounty Platform
 
-## Project Description
+## Project Description.
 
 BountyVault is a smart contract platform  for securely managing and distributing bug bounties. It ensures that bounty funds are held in escrow until valid submissions are verified and claimed by the bounty hunter.
 
