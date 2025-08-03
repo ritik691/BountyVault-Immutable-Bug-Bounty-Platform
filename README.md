@@ -4,7 +4,7 @@
 
 BountyVault is a smart contract platform  for securely managing and distributing bug bounties. It ensures that bounty funds are held in escrow until valid submissions are verified and claimed by the bounty hunter.
 
-## Project Vision
+## Project Vision.
 
 .To build a trustless and transparent system for incentivizing ethical hackers and developers to find vulnerabilities without depending on centralized services.
 
