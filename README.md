@@ -8,7 +8,7 @@ BountyVault is a smart contract platform  for securely managing and distributing
 
 .To build a trustless and transparent system for incentivizing ethical hackers and developers to find vulnerabilities without depending on centralized services.
 
-## Key Features
+## Key Features.
 
 - On-chain bounty listings
 - Escrowed reward funds
