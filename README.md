@@ -15,7 +15,7 @@ BountyVault is a smart contract platform  for securely managing and distributing
 - Admin-controlled claim approval
 - Public bounty metadata and payout tracking
 
-## Future Scope
+## Future Scope.
 
 - DAO-based bounty verification and voting
 - NFT proof-of-claim for bounty winners
